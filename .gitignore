@@ -1,4 +1,4 @@
-**/**
+**/*
 !.gitignore
 !.tmux.conf
 !.tmux/plugins/tmux/custom/ram.sh
