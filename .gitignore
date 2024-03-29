@@ -1,3 +1,6 @@
 **/**
 !.gitignore
-
+!.tmux.conf
+!.tmux/plugins/tmux/custom/ram.sh
+!.config/starship.toml
+!.config/nvim/**
